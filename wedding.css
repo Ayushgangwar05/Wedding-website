@@ -1,0 +1,555 @@
+.full page{
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+.heart{
+    margin-left: 100px;
+    color:red;
+}
+.bratt{
+    width: 15px;
+    height: 15px;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.heartimage{
+    margin-top: 30px;
+    width: 20px;
+    height: 20px;
+}
+.jolie{
+    width: 15px;
+    height: 15px;
+    margin-top: 33px;
+    font-size: 22px;
+}
+.nav11{
+    display: flex;
+    position:fixed;
+    width: auto;
+    height: 80px;
+    background-color:white;
+}
+.navbar{
+    display: flex;
+    padding: 10px;
+    margin-left: 210px;
+    list-style: none;
+}
+.navbar1{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar2{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar3{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar4{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar5{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar6{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar7{
+    margin-left: 40px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.navbar66{
+    text-decoration:none;
+    color: black;
+}
+
+
+
+.married{
+   background-color: rgb(212, 205, 205);
+   width: 1330px;
+   height: 480px;
+   margin-left: 90px;
+   display: flex;
+   margin-top: 80px;
+}
+.para{
+    padding: 30px;
+    margin-top: 75px;
+}
+.para1{
+    font-size: 35px;
+    color: brown;
+    font-style: normal;
+}
+.para2{
+    font-size: 55px;
+    color: white;
+    font-style: normal;
+}
+.para3{
+    font-size: 25px;
+    color: white;
+    font-style: normal;
+}
+.para4{
+    font-size: 25px;
+    color: white;
+    font-style: normal;
+}
+.marriedlink :hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+.marriedlink{
+    text-decoration: none;
+    color: white;
+
+}
+.marriedimg{
+    width: 650px;
+    height: 480px;
+    position: static;
+}
+.number{
+    margin-top: 370px;
+    width: 120px;
+    height: 100px;
+    font-size: 15px;
+    color: white;
+    background-color:white;
+    border-top-left-radius:12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    
+}
+.number1{
+    width: 120px;
+    height:30px;
+    background-color: orange;
+}
+.number2{
+    width: 120px;
+    height:43px;
+    color: black;
+}
+
+
+
+
+
+.lovestory{
+    margin-left: 680px;
+    color: brown;
+    margin-top: 100px;
+}
+.loveimg{
+    width: 35px;
+    height: 33px;
+    margin-left: 73px;
+}
+.love1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.girlimage{
+    width: 330px;
+    height: 430px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.boyimage{
+    width: 330px;
+    height: 430px;
+    margin-left: 60px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.gg-facebook{
+    margin-top: 180px;
+    color: blue;
+}
+.girl{
+    display: flex;
+}
+.boy{
+    display: flex;
+}
+.girlpara{
+    width: 220px;
+    height: 60px;
+    margin-left: 40px;
+    color: rgb(77, 74, 74);
+    font-size: 20px;
+}
+.boypara{
+    width: 220px;
+    height: 60px;
+    margin-left: 40px;
+    color: rgb(77, 74, 74);
+    font-size: 20px;
+}
+.boygirl{
+    display: flex;
+    margin-left: 120px;
+    padding: 20px;
+}
+.girlpara .colorgirl{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+.boypara .colorboy{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+
+.weedingpage{
+    width: auto;
+    height: 800px;
+    background-color: rgb(223, 220, 220);
+}
+.weddingpara{
+    margin-left: 680px;
+    color: rgb(241, 241, 93);
+    margin-top: 100px;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paraimage{
+    width: 36px;
+    height: 40px;
+    margin-left: 85px;
+}
+.weddingimg4{
+    width: 390px;
+    height: 270px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.weddingimg5{
+    width: 390px;
+    height: 270px;
+    margin-left: 40px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.googlemapimg{
+    width: 390px;
+    height: 270px;
+    margin-left: 40px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.headingwedding{
+    margin-left: 50px;
+    font-style: italic;
+    color: rgb(147, 143, 143);
+    
+}
+.heading3wedding{
+    margin-left: 50px;
+    font-style: italic;
+    color: rgb(147, 143, 143);
+}
+.headingwedding7{
+    font-style: italic;
+    color: rgb(147, 143, 143);
+}
+.heading8wedding{
+    font-style: italic;
+    color: rgb(147, 143, 143);
+}
+.thewedding{
+    display: flex;
+    margin-left: 130px;
+}
+
+
+
+
+
+.mid1{
+    margin-left: 650px;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(207, 207, 83);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.midimg{
+    width: 30px;
+    height: 30px;
+    margin-left: 810px;
+    margin-bottom: 40px;
+}
+.mid3img{
+    width: 400px;
+    height: 340px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 341px;
+}
+.mid3para{
+    width:200px;
+    height: auto;
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(159, 156, 156);
+}
+.mid3{
+    display: flex;
+    justify-content: center;
+   
+}
+.mid4img{
+    width: 400px;
+    height: 340px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 389px;
+}
+.mid4{
+    display: flex;
+    justify-content: center;
+}
+.mid4para{
+    width:200px;
+    height: auto;
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(159, 156, 156);
+}
+.mid{
+    width: auto;
+    height: 900px;
+}
+.mid2{
+    display: flex;
+}
+.headingmid2{
+    margin-top: 120px;
+    margin-left: 80px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+}
+.mid4 span{
+    color: black;
+    font-style: italic;
+}
+.mid3 span{
+    color: black;
+    font-style: italic;
+}
+
+
+
+
+
+
+.gallery{
+    width: auto;
+    height: 1500px;
+    background-color: rgb(236, 230, 230);
+}
+.gallerypara{
+    margin-left: 730px;
+    font-size: 32px;
+    color: rgb(230, 132, 21);
+    font-style: italic;
+    padding: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.galleryimage{
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+}
+.allgallery{
+    display: flex;
+   margin-left: 180px;
+}
+.galleryimg1{
+    width: 380px;
+    height: 600px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg2{
+    width: 380px;
+    height: 300px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg3{
+    width: 380px;
+    height: 300px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg4{
+    width: 380px;
+    height: 290px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleyimg5{
+    width: 380px;
+    height: 289px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleyimg6{
+    width: 380px;
+    height: 620px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg7{
+    width: 380px;
+    height: 600px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg8{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.galleryimg9{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+
+.contact{
+    background-image: url(contactbackground.jpg);
+    width: auto;
+    height: 680px;
+}
+.contact1{
+    background-color: white;
+    width: 800px;
+    height: 600px;
+    margin-left: 380px;
+    border-top-right-radius: 22px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
+.contact1para{
+    margin-left: 350px;
+    color:rgb(222, 89, 12);
+    font-style: italic;
+    font-size: 30px;
+    padding: 10;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contact1image{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.headingcontact{
+    color:rgb(158, 153, 153);
+    margin-left: 20px;
+}
+.form{
+    font-size: 25px;
+    margin-left: 20px;
+    padding: 20px;
+}
+.messagetype{
+    margin: 20px;
+    padding: 20px;
+}
+.message{
+    font-size: 60px;
+}
+.submitform{
+    margin-left: 350px;
+    cursor: pointer;
+}
+.End{
+    background-image: url(endphotu.jpeg);
+    width: auto;
+    height: 370px;
+    image-rendering: none; 
+    color: red;
+    
+}
+.End1{
+    padding: 250px;
+    margin-left: 480px;  
+    font-style: italic;
+}
+.Endimg{
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
